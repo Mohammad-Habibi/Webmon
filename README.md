@@ -15,9 +15,9 @@ You can use script like this :
 -p : older and clean file directory
 -o : output file
 
-Output:
-script output can look like the image below
+Output
+script output can look like the image below:
 
 
+![Captu33re](https://user-images.githubusercontent.com/122885005/212917628-ad088f6b-4b2b-47d9-9e6f-0c3279722a53.PNG)
 
-![Capture](https://user-images.githubusercontent.com/122885005/212916683-f9f1a3a3-1553-4944-8b0c-ac41311bb017.PNG)
